@@ -1,0 +1,12 @@
+1.桥接模式（brige） docker默认
+docker上面搭桥
+![节点](./bridge.png)
+
+
+
+2.none 不配置网络
+
+3.host 和宿主机共享网络
+
+4.container: 容器网络联通
+  
